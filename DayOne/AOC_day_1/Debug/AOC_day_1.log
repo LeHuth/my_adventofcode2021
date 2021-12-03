@@ -1,0 +1,3 @@
+﻿  AOC_day_1.cpp
+E:\AdventOfCode\DayOne\AOC_day_1\AOC_day_1.cpp(31,31): warning C4018: '<': signed/unsigned mismatch
+  AOC_day_1.vcxproj -> E:\AdventOfCode\DayOne\AOC_day_1\Debug\AOC_day_1.exe

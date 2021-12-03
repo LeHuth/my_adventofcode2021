@@ -1,0 +1,2 @@
+E:\AdventOfCode\DayOne\AOC_day_1\Debug\AOC_day_1.exe
+E:\AdventOfCode\DayOne\AOC_day_1\Debug\AOC_day_1.pdb
